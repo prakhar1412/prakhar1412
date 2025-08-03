@@ -1,7 +1,7 @@
 ## hi, i am PRAKHAR
 computer science student at G.L.Bajaj .
 I am a fullstack developer [ MERN ],
-connect me on instagram [https://www.instagram.com/prakharx_g/]
+connect with me on instagram
 
 
 
