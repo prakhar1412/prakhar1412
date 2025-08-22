@@ -1,3 +1,8 @@
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 ## hi, i am PRAKHAR
 computer science student at G.L.Bajaj .
 I am a fullstack developer [ MERN ],
