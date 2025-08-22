@@ -3,10 +3,10 @@
 	<br>
 	<br>
 </div>
-## hi, i am PRAKHAR
-computer science student at G.L.Bajaj .
-I am a fullstack developer [ MERN ],
-connect with me on instagram
+## Heyy, I am PRAKHAR
+a computer science student & a fullstack developer [ MERN ] currently studying at GLBITM .
+I am very much interested into TECH & DEVELOPMENT and to connect with peoples to share our mutual thoughts
+soo let's connect on insta<<
 
 
 
